@@ -7,9 +7,9 @@ EMAILPASS = 'vmoe mboq jjae mepl'
 message = EmailMessage()
 message['From'] = EMAILADDRESS
 message['To'] = EMAILADDRESS
-message['Subject'] = 'Gumball & Darwin'
-message.set_content('Say hello to Gumball and Darwin')
-attachments = ['gumball.png', 'darwin.png']
+message['Subject'] = 'This is my CV'
+message.set_content('You can download my cv below')
+
 
 with open('cv.pdf', 'rb') as f:
     fdata = f.read()
