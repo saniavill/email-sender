@@ -11,7 +11,7 @@ message['Subject'] = 'This is my CV'
 message.set_content('You can download my cv below')
 
 
-with open('cv.pdf', 'rb') as f:
+with open('yourcv.pdf', 'rb') as f:
     fdata = f.read()
     fname = f.name
 
