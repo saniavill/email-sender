@@ -1,8 +1,8 @@
 from email.message import EmailMessage
 import smtplib
 
-EMAILADDRESS = 'saniourry@gmail.com'
-EMAILPASS = 'vmoe mboq jjae mepl'
+EMAILADDRESS = 'youremail@gmail.com'
+EMAILPASS = 'XXXXXXXXXXXXX'
 
 message = EmailMessage()
 message['From'] = EMAILADDRESS
