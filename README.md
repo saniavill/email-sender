@@ -5,6 +5,8 @@ Used to send a resume to one/multiple recruiters.
 variables to your own.
 2. Get your Google app password via Google Workspace
 
-E-mail: saniafornow@gmail.com Linkedin: https://www.linkedin.com/in/sania-latifi-afshar-49000831a
+[LinkedIn](https://www.linkedin.com/in/sania-latifi-afshar-49000831a/) 
+[Email](sania.latifia@gmail.com)
+
 
 
